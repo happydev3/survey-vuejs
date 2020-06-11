@@ -1,0 +1,42 @@
+.logo {
+    width: 100px;
+}
+
+.list-item {
+    cursor: pointer;
+}
+
+#surveyElement {
+    padding: 30px;
+}
+
+.sv_main .sv_custom_header {
+    background-color: transparent;
+}
+
+.sv_prev_btn,
+.sv_next_btn,
+.sv_complete_btn {
+    padding: 5px !important;
+    font-size: 15px !important;
+}
+
+.sv_main.sv_main .progress {
+    margin-left: 700px !important;
+}
+
+.sv_q_select_column {
+    width: 100px;
+}
+
+.sv_container .panel-heading {
+    color: #1ab394 !important;
+}
+
+.progress-bar {
+    background:#1ab394 !important;
+}
+
+.panel-border-style {
+    border-style: dotted;
+}
